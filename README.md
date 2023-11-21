@@ -1,17 +1,15 @@
 # Vue.js Quizzes
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Nalini1998/pen/dywvVvP/7c2134a08a6198620a202c69968e3477](https://codepen.io/Nalini1998/pen/dywvVvP/7c2134a08a6198620a202c69968e3477).
+This is a Vue.js application that presents a multiple-choice quiz to the user. The quiz is stored in an object called `quiz`, which includes various questions with their respective answer choices. The `app` object is a Vue instance that controls the behavior of the quiz. It stores the quiz data, the current question index, the user's answers, and whether or not the quiz is active.
 
-This is a rebuild of my VueQuiz App that I built earlier. This pen has been created to drop the dependency on bulma css framework and use scss to style independantly.
+<br>
 
-## Credits
+<img src="https://assets.codepen.io/10602517/Vue.js+Quizzes.PNG" alt="Vue.js Quizzes" title="Vue.js Quizzes">
 
- - Vue
- - Animate.css
+<br>
 
-## Featured
+A Pen created on CodePen.io. [Click here to explore](https://codepen.io/Nalini1998/live/dywvVvP/7c2134a08a6198620a202c69968e3477).
 
-* https://vuejsexamples.com/a-nice-quiz-app-with-vue/
-
-:)
-
+<br>
+  
+### ***[This Project was completed by Nalini Vo](https://github.com/Nalini1998)***
